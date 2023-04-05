@@ -6,6 +6,7 @@
     <a href="mailto:mussieteka@gmail.com" target='_blank'>
         <img width="26" height="26" src="https://img.icons8.com/fluency/48/null/apple-mail.png"/>
     </a>
+  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
   </div>
     <h2></h2>
 </div>
