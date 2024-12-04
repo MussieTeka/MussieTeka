@@ -33,5 +33,5 @@
 
 <div align='left'>
   <h2> </h2>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em>I thrive on expanding my circle and forging new connections. Meeting new people is simply my jam!</em>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em>Born to code!</em>
 </div>
