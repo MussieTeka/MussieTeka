@@ -23,7 +23,6 @@
       name: "Mussie Kahsay",
       degree: "BSc in Computer Science from University of the People",
       occupation: "Full-Stack Web Developer",
-      bootcamp: "Microverse: an online, robust, and intensive software development school",
       skills: ["HTML", "CSS", "JavaScript", "Ruby on Rails", "React.js", "Redux", "Bootstrap"],
       isProfessional: true,
       isFullStack: true,
