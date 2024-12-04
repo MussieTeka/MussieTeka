@@ -33,5 +33,5 @@
 
 <div align='left'>
   <h2> </h2>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em>Born to code!</em>
+  <img src="[https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzFscWFpNmphNGZmbzBpempiMTNnODB6M3E2dnc0MnF6NXNjZnB2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)" width="60"><em>Born to code!</em>
 </div>
