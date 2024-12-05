@@ -12,7 +12,6 @@
 
 <div align='center'>  
 <p> I'm not just a software developer – I'm a problem-solving ninja with a passion for innovation. I specialize in building killer applications using the latest programming languages and tools. Bring on the remote opportunities – I'm ready to slay complex problems and create game-changing solutions.</p>
-   <img src="mussie.png" width = "300"/>
 </div>
 
 <div align ="left">
