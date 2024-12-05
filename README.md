@@ -21,11 +21,10 @@
   
   const mussieKahsay = {
       name: "Mussie Kahsay",
-      degree: "BSc in Computer Science from University of the People",
       occupation: "Full-Stack Web Developer",
-      skills: ["HTML", "CSS", "JavaScript", "Ruby on Rails", "React.js", "Redux", "Bootstrap"],
-      isProfessional: true,
-      isFullStack: true,
+      Programming Languages: ["JavaScript", "Java", "Python", "Ruby",],
+      Web Technologies: ["React.js", "Vue.js", "Node.js", "Express.js", "Redux", "Bootstrap"],
+      Database Technologies: ["MySQL", "PostgreSQL", "MongoDBGit", "Docker", "Jenkins", "Spring Boot", "Angular"],
   }
   
   ```
